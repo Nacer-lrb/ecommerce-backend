@@ -10,7 +10,7 @@ This project is an API for managing users and products, built using Node.js, Exp
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Environment Variables](#environment-variables)
-- [License](#license)
+
 
 ## Features
 
